@@ -10,5 +10,5 @@ Modelo de Script Pós-Implantação
 --------------------------------------------------------------------------------------
 */
 
-:r .\Post.Initialize.sql
 :r .\User.Initialize.sql
+:r .\Post.Initialize.sql
